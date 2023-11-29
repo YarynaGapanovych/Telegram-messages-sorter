@@ -1,0 +1,6 @@
+appId: com.yourcompany.yourapp
+productName: Telegram sorter
+directories:
+  output: ./dist
+win:
+  target: NSIS

@@ -1,0 +1,38 @@
+{
+    "about": "Here is the data you requested. ...",
+    "chats": {
+        "about": "This page lists all chats from this export.",
+        "list": [
+            {
+                "name": "Somebody",
+                "type": "personal_chat",
+                "id": 4295744296,
+                "messages": [
+                    {
+                        "id": 642,
+                        "type": "message",
+                        "date": "2022-10-09T19:32:23",
+                        "from": "Julie Ducasse",
+                        "from_id": 653911985,
+                        "text": "Hello :) !"
+                    }
+                ]
+            },
+            {
+                "name": "Petro",
+                "type": "personal_chat",
+                "id": 4295744297,
+                "messages": [
+                    {
+                        "id": 643,
+                        "type": "message",
+                        "date": "2022-10-09T19:32:23",
+                        "from": "Julie Ducasse",
+                        "from_id": 653911985,
+                        "text": "Bye bye :) !"
+                    }
+                ]
+            }
+        ]
+    }
+}
